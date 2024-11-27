@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXECUTABLE="./lab5.exe"
+EXECUTABLE="./lab6.exe"
 
 if [ ! -x "$EXECUTABLE" ]; then
     echo "Error: Executable file $EXECUTABLE does not exist or is not executable."
